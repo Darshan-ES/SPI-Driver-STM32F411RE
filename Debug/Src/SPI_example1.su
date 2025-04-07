@@ -1,0 +1,4 @@
+../Src/SPI_example1.c:29:5:main	24	static
+../Src/SPI_example1.c:49:6:delay	24	static
+../Src/SPI_example1.c:56:6:SPI1GpioInit	24	static
+../Src/SPI_example1.c:90:6:SPI1_Init	24	static

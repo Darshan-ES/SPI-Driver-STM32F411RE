@@ -1,0 +1,7 @@
+../drivers/Src/stm32f411xx_spi.c:15:6:SPI_PeriClockControl	12
+../drivers/Src/stm32f411xx_spi.c:67:6:SPI_Init	4
+../drivers/Src/stm32f411xx_spi.c:112:6:SPI_DeInit	1
+../drivers/Src/stm32f411xx_spi.c:116:9:Get_SPIStatusFlag	2
+../drivers/Src/stm32f411xx_spi.c:128:6:SPI_SendData	4
+../drivers/Src/stm32f411xx_spi.c:157:6:SPI_PeriControl	2
+../drivers/Src/stm32f411xx_spi.c:168:6:SPI_SSIConfig	2

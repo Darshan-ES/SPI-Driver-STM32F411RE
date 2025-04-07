@@ -1,0 +1,6 @@
+"./Src/SPI_example1.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f411retx.o"
+"./drivers/Src/stm32f411xx_gpio.o"
+"./drivers/Src/stm32f411xx_spi.o"
